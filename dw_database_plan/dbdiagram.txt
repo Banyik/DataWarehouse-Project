@@ -1,0 +1,79 @@
+Table HappinesReportScore {
+  id integer
+  countryId integer
+  year integer
+  score float
+
+  Note: 'Fact/Maintable'
+}
+
+Table Country {
+  id integer
+  name string
+  landArea integer
+}
+
+
+Table CountryData {
+  id integer
+  year integer
+  countryId integer
+  healthcareDataId integer
+  environmentalDataId integer
+  financialDataId integer
+  educationalDataId integer
+  populationDataId integer
+
+  Note: 'Fact/Maintable'
+}
+
+Table PopulationData {
+  id integer
+  density integer
+  population integer
+  laborForceParticipant float
+  urbanPopulation integer
+}
+
+Table FinancialData {
+  id integer
+  armedForcesSize integer
+  CPI float
+  gasolinePrice float
+  GDP integer
+  minimumWage float
+  outOfPocketHealthExpenditure float
+  taxRevenue float
+  totalTaxRate float
+  unemploymentRate float
+}
+
+Table EducationalData {
+  id integer
+  GrossPrimaryEducationEnrollment float
+  GrossTertiaryEducationEnrollment float
+}
+
+Table EnvironmentalData {
+  id integer
+  Co2Emmission float
+  forestedArea float
+}
+
+Table HealthcareData {
+  id integer
+  birthRate float
+  fertilityRate float
+  infantMortaloty float
+  lifeExpectancy integer
+  maternalMortality float
+  physicianPerThousand float
+}
+
+Ref: PopulationData.id - CountryData.populationDataId
+Ref: FinancialData.id - CountryData.financialDataId
+Ref: EducationalData.id - CountryData.educationalDataId
+Ref: EnvironmentalData.id - CountryData.environmentalDataId
+Ref: HealthcareData.id - CountryData.healthcareDataId
+Ref: Country.id > HappinesReportScore.countryId
+Ref: Country.id > CountryData.countryId
