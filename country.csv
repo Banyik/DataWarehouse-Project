@@ -1,146 +1,146 @@
-"country","landArea"
-"Afghanistan",652230
-"Albania",27400
-"Algeria",2381741
-"Argentina",2736690
-"Armenia",28470
-"Australia",7692020
-"Austria",82520
-"Azerbaijan",82646
-"Bahrain",785
-"Bangladesh",130170
-"Belarus",202980
-"Belgium",30280
-"Benin",112760
-"Bolivia",1083300
-"Bosnia and Herzegovina",51200
-"Botswana",566730
-"Brazil",8358140
-"Bulgaria",108560
-"Burkina Faso",273600
-"Cambodia",176520
-"Cameroon",472710
-"Canada",8965590
-"Chad",1259200
-"Chile",743532
-"China",9424702.9
-"Colombia",1109500
-"Comoros",1861
-"Costa Rica",51060
-"Croatia",55960
-"Cyprus",9240
-"Czech Republic",77198.5
-"DR Congo",2267050
-"Denmark",40000
-"Dominican Republic",48310
-"Ecuador",248360
-"Egypt",995450
-"El Salvador",20720
-"Estonia",42750
-"Eswatini",17200
-"Ethiopia",1128571.3
-"Finland",303940
-"France",547557
-"Gabon",257670
-"Gambia",10120
-"Georgia",69490
-"Germany",349390
-"Ghana",227533
-"Greece",128900
-"Guatemala",107160
-"Guinea",245720
-"Honduras",111890
-"Hong Kong",1050
-"Hungary",91260
-"Iceland",100830
-"India",2973190
-"Indonesia",1877519
-"Iran",1622500
-"Iraq",434128
-"Ireland",68890
-"Israel",21640
-"Italy",295717
-"Ivory Coast",318000
-"Jamaica",10830
-"Japan",364500
-"Jordan",88794
-"Kazakhstan",2699700
-"Kenya",569140
-"Kuwait",17820
-"Kyrgyzstan",191800
-"Laos",230800
-"Latvia",62230
-"Lebanon",10230
-"Lesotho",30360
-"Liberia",96320
-"Libya",1759540
-"Lithuania",62620
-"Luxembourg",2574.5
-"Madagascar",581800
-"Malawi",94280
-"Malaysia",328550
-"Mali",1220190
-"Malta",320
-"Mauritania",1030700
-"Mauritius",2030
-"Mexico",1943950
-"Moldova",32884.6
-"Mongolia",1557506.8
-"Montenegro",13450
-"Morocco",446300
-"Mozambique",786380
-"Myanmar",652670
-"Namibia",823290
-"Nepal",143350
-"Netherlands",33670
-"New Zealand",263310
-"Nicaragua",120340
-"Niger",1266700
-"Nigeria",910770
-"North Macedonia",25220
-"Norway",364285
-"Pakistan",770880
-"Palestine",6020
-"Panama",74180
-"Paraguay",397300
-"Peru",1280000
-"Philippines",298170
-"Poland",306130
-"Portugal",91605.6
-"Republic of the Congo",341500
-"Romania",230080
-"Russia",16376870
-"Rwanda",24670
-"Saudi Arabia",2149690
-"Senegal",192530
-"Serbia",87460
-"Sierra Leone",72180
-"Singapore",718
-"Slovakia",49035
-"Slovenia",20136.4
-"South Africa",1213090
-"South Korea",97600
-"Spain",499556.6
-"Sri Lanka",61860
-"Sweden",407283.5
-"Switzerland",39516
-"Taiwan",36197
-"Tajikistan",138790
-"Tanzania",885800
-"Thailand",510890
-"Togo",54390
-"Tunisia",155360
-"Turkey",783562
-"Turkmenistan",469930
-"Uganda",200520
-"Ukraine",579400
-"United Arab Emirates",71020
-"United Kingdom",241930
-"United States",9147420
-"Uruguay",175020
-"Uzbekistan",440650
-"Venezuela",882050
-"Vietnam",313429
-"Yemen",527970
-"Zambia",743390
-"Zimbabwe",386850
+"id","country","landArea"
+1,"Afghanistan",652230
+2,"Albania",27400
+3,"Algeria",2381741
+4,"Argentina",2736690
+5,"Armenia",28470
+6,"Australia",7692020
+7,"Austria",82520
+8,"Azerbaijan",82646
+9,"Bahrain",785
+10,"Bangladesh",130170
+11,"Belarus",202980
+12,"Belgium",30280
+13,"Benin",112760
+14,"Bolivia",1083300
+15,"Bosnia and Herzegovina",51200
+16,"Botswana",566730
+17,"Brazil",8358140
+18,"Bulgaria",108560
+19,"Burkina Faso",273600
+20,"Cambodia",176520
+21,"Cameroon",472710
+22,"Canada",8965590
+23,"Chad",1259200
+24,"Chile",743532
+25,"China",9424702.9
+26,"Colombia",1109500
+27,"Comoros",1861
+28,"Costa Rica",51060
+29,"Croatia",55960
+30,"Cyprus",9240
+31,"Czech Republic",77198.5
+32,"DR Congo",2267050
+33,"Denmark",40000
+34,"Dominican Republic",48310
+35,"Ecuador",248360
+36,"Egypt",995450
+37,"El Salvador",20720
+38,"Estonia",42750
+39,"Eswatini",17200
+40,"Ethiopia",1128571.3
+41,"Finland",303940
+42,"France",547557
+43,"Gabon",257670
+44,"Gambia",10120
+45,"Georgia",69490
+46,"Germany",349390
+47,"Ghana",227533
+48,"Greece",128900
+49,"Guatemala",107160
+50,"Guinea",245720
+51,"Honduras",111890
+52,"Hong Kong",1050
+53,"Hungary",91260
+54,"Iceland",100830
+55,"India",2973190
+56,"Indonesia",1877519
+57,"Iran",1622500
+58,"Iraq",434128
+59,"Ireland",68890
+60,"Israel",21640
+61,"Italy",295717
+62,"Ivory Coast",318000
+63,"Jamaica",10830
+64,"Japan",364500
+65,"Jordan",88794
+66,"Kazakhstan",2699700
+67,"Kenya",569140
+68,"Kuwait",17820
+69,"Kyrgyzstan",191800
+70,"Laos",230800
+71,"Latvia",62230
+72,"Lebanon",10230
+73,"Lesotho",30360
+74,"Liberia",96320
+75,"Libya",1759540
+76,"Lithuania",62620
+77,"Luxembourg",2574.5
+78,"Madagascar",581800
+79,"Malawi",94280
+80,"Malaysia",328550
+81,"Mali",1220190
+82,"Malta",320
+83,"Mauritania",1030700
+84,"Mauritius",2030
+85,"Mexico",1943950
+86,"Moldova",32884.6
+87,"Mongolia",1557506.8
+88,"Montenegro",13450
+89,"Morocco",446300
+90,"Mozambique",786380
+91,"Myanmar",652670
+92,"Namibia",823290
+93,"Nepal",143350
+94,"Netherlands",33670
+95,"New Zealand",263310
+96,"Nicaragua",120340
+97,"Niger",1266700
+98,"Nigeria",910770
+99,"North Macedonia",25220
+100,"Norway",364285
+101,"Pakistan",770880
+102,"Palestine",6020
+103,"Panama",74180
+104,"Paraguay",397300
+105,"Peru",1280000
+106,"Philippines",298170
+107,"Poland",306130
+108,"Portugal",91605.6
+109,"Republic of the Congo",341500
+110,"Romania",230080
+111,"Russia",16376870
+112,"Rwanda",24670
+113,"Saudi Arabia",2149690
+114,"Senegal",192530
+115,"Serbia",87460
+116,"Sierra Leone",72180
+117,"Singapore",718
+118,"Slovakia",49035
+119,"Slovenia",20136.4
+120,"South Africa",1213090
+121,"South Korea",97600
+122,"Spain",499556.6
+123,"Sri Lanka",61860
+124,"Sweden",407283.5
+125,"Switzerland",39516
+126,"Taiwan",36197
+127,"Tajikistan",138790
+128,"Tanzania",885800
+129,"Thailand",510890
+130,"Togo",54390
+131,"Tunisia",155360
+132,"Turkey",783562
+133,"Turkmenistan",469930
+134,"Uganda",200520
+135,"Ukraine",579400
+136,"United Arab Emirates",71020
+137,"United Kingdom",241930
+138,"United States",9147420
+139,"Uruguay",175020
+140,"Uzbekistan",440650
+141,"Venezuela",882050
+142,"Vietnam",313429
+143,"Yemen",527970
+144,"Zambia",743390
+145,"Zimbabwe",386850
