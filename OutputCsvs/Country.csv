@@ -1,196 +1,196 @@
-"id","Country","Land Area(Km2)"
-"AF","Afghanistan",652230
-"AL","Albania",28748
-"DZ","Algeria",2381741
-"AD","Andorra",468
-"AO","Angola",1246700
-"AG","Antigua and Barbuda",443
-"AR","Argentina",2780400
-"AM","Armenia",29743
-"AU","Australia",7741220
-"AT","Austria",83871
-"AZ","Azerbaijan",86600
-"BH","Bahrain",765
-"BD","Bangladesh",148460
-"BB","Barbados",430
-"BY","Belarus",207600
-"BE","Belgium",30528
-"BZ","Belize",22966
-"BJ","Benin",112622
-"BT","Bhutan",38394
-"BO","Bolivia",1098581
-"BA","Bosnia and Herzegovina",51197
-"BW","Botswana",581730
-"BR","Brazil",8515770
-"BN","Brunei",5765
-"BG","Bulgaria",110879
-"BF","Burkina Faso",274200
-"BI","Burundi",27830
-"KH","Cambodia",181035
-"CM","Cameroon",475440
-"CA","Canada",9984670
-"CV","Cape Verde",4033
-"CF","Central African Republic",622984
-"TD","Chad",1284000
-"CL","Chile",756096
-"CN","China",9596960
-"CO","Colombia",1138910
-"KM","Comoros",2235
-"CR","Costa Rica",51100
-"HR","Croatia",56594
-"CU","Cuba",110860
-"CY","Cyprus",9251
-"CZ","Czech Republic",78867
-"CD","Democratic Republic of the Congo",2344858
-"DK","Denmark",43094
-"DJ","Djibouti",23200
-"DM","Dominica",751
-"DO","Dominican Republic",48670
-"TL","East Timor",14874
-"EC","Ecuador",283561
-"EG","Egypt",1001450
-"SV","El Salvador",21041
-"GQ","Equatorial Guinea",28051
-"ER","Eritrea",117600
-"EE","Estonia",45228
-"SZ","Eswatini",17364
-"ET","Ethiopia",1104300
-"FM","Federated States of Micronesia",702
-"FJ","Fiji",18274
-"FI","Finland",338145
-"FR","France",643801
-"GA","Gabon",267667
-"GE","Georgia",69700
-"DE","Germany",357022
-"GH","Ghana",238533
-"GR","Greece",131957
-"GD","Grenada",349
-"GT","Guatemala",108889
-"GN","Guinea",245857
-"GW","Guinea-Bissau",36125
-"GY","Guyana",214969
-"HT","Haiti",27750
-"HN","Honduras",112090
-"HU","Hungary",93028
-"IS","Iceland",103000
-"IN","India",3287263
-"ID","Indonesia",1904569
-"IR","Iran",1648195
-"IQ","Iraq",438317
-"IL","Israel",20770
-"IT","Italy",301340
-"CI","Ivory Coast",322463
-"JM","Jamaica",10991
-"JP","Japan",377944
-"JO","Jordan",89342
-"KZ","Kazakhstan",2724900
-"KE","Kenya",580367
-"KI","Kiribati",811
-"KW","Kuwait",17818
-"KG","Kyrgyzstan",199951
-"LA","Laos",236800
-"LV","Latvia",64589
-"LB","Lebanon",10400
-"LS","Lesotho",30355
-"LR","Liberia",111369
-"LY","Libya",1759540
-"LI","Liechtenstein",160
-"LT","Lithuania",65300
-"LU","Luxembourg",2586
-"MG","Madagascar",587041
-"MW","Malawi",118484
-"MY","Malaysia",329847
-"MV","Maldives",298
-"ML","Mali",1240192
-"MT","Malta",316
-"MH","Marshall Islands",181
-"MR","Mauritania",1030700
-"MU","Mauritius",2040
-"MX","Mexico",1964375
-"MD","Moldova",33851
-"MC","Monaco",2
-"MN","Mongolia",1564116
-"ME","Montenegro",13812
-"MA","Morocco",446550
-"MZ","Mozambique",799380
-"MM","Myanmar",676578
-"NA","Namibia",824292
-"NR","Nauru",21
-"NP","Nepal",147181
-"NL","Netherlands",41543
-"NZ","New Zealand",268838
-"NI","Nicaragua",130370
-"NE","Niger",1267000
-"NG","Nigeria",923768
-"KP","North Korea",120538
-"MK","North Macedonia",25713
-"NO","Norway",323802
-"OM","Oman",309500
-"PK","Pakistan",796095
-"PW","Palau",459
-"PS","Palestinian National Authority",
-"PA","Panama",75420
-"PG","Papua New Guinea",462840
-"PY","Paraguay",406752
-"PE","Peru",1285216
-"PH","Philippines",300000
-"PL","Poland",312685
-"PT","Portugal",92212
-"QA","Qatar",11586
-"IE","Republic of Ireland",70273
-"CG","Republic of the Congo",342000
-"RO","Romania",238391
-"RU","Russia",17098240
-"RW","Rwanda",26338
-"KN","Saint Kitts and Nevis",261
-"LC","Saint Lucia",616
-"VC","Saint Vincent and the Grenadines",389
-"WS","Samoa",2831
-"SM","San Marino",61
-"SA","Saudi Arabia",2149690
-"SN","Senegal",196722
-"RS","Serbia",77474
-"SC","Seychelles",455
-"SL","Sierra Leone",71740
-"SG","Singapore",716
-"SK","Slovakia",49035
-"SI","Slovenia",20273
-"SB","Solomon Islands",28896
-"SO","Somalia",637657
-"ZA","South Africa",1219090
-"KR","South Korea",99720
-"SS","South Sudan",644329
-"ES","Spain",505370
-"LK","Sri Lanka",65610
-"SD","Sudan",1861484
-"SR","Suriname",163820
-"SE","Sweden",450295
-"CH","Switzerland",41277
-"SY","Syria",185180
-"ST","S�����������",964
-"TJ","Tajikistan",144100
-"TZ","Tanzania",947300
-"TH","Thailand",513120
-"BS","The Bahamas",13880
-"GM","The Gambia",11300
-"TG","Togo",56785
-"TO","Tonga",747
-"TT","Trinidad and Tobago",5128
-"TN","Tunisia",163610
-"TR","Turkey",783562
-"TM","Turkmenistan",488100
-"TV","Tuvalu",26
-"UG","Uganda",241038
-"UA","Ukraine",603550
-"AE","United Arab Emirates",83600
-"GB","United Kingdom",243610
-"US","United States",9833517
-"UY","Uruguay",176215
-"UZ","Uzbekistan",447400
-"VU","Vanuatu",12189
-"VA","Vatican City",0
-"VE","Venezuela",912050
-"VN","Vietnam",331210
-"YE","Yemen",527968
-"ZM","Zambia",752618
-"ZW","Zimbabwe",390757
+id,Country,Land Area(Km2)
+1,Afghanistan,652230
+2,Albania,28748
+3,Algeria,2381741
+4,Andorra,468
+5,Angola,1246700
+6,Antigua and Barbuda,443
+7,Argentina,2780400
+8,Armenia,29743
+9,Australia,7741220
+10,Austria,83871
+11,Azerbaijan,86600
+12,Bahrain,765
+13,Bangladesh,148460
+14,Barbados,430
+15,Belarus,207600
+16,Belgium,30528
+17,Belize,22966
+18,Benin,112622
+19,Bhutan,38394
+20,Bolivia,1098581
+21,Bosnia and Herzegovina,51197
+22,Botswana,581730
+23,Brazil,8515770
+24,Brunei,5765
+25,Bulgaria,110879
+26,Burkina Faso,274200
+27,Burundi,27830
+28,Cambodia,181035
+29,Cameroon,475440
+30,Canada,9984670
+31,Cape Verde,4033
+32,Central African Republic,622984
+33,Chad,1284000
+34,Chile,756096
+35,China,9596960
+36,Colombia,1138910
+37,Comoros,2235
+38,Costa Rica,51100
+39,Croatia,56594
+40,Cuba,110860
+41,Cyprus,9251
+42,Czech Republic,78867
+43,Democratic Republic of the Congo,2344858
+44,Denmark,43094
+45,Djibouti,23200
+46,Dominica,751
+47,Dominican Republic,48670
+48,East Timor,14874
+49,Ecuador,283561
+50,Egypt,1001450
+51,El Salvador,21041
+52,Equatorial Guinea,28051
+53,Eritrea,117600
+54,Estonia,45228
+55,Eswatini,17364
+56,Ethiopia,1104300
+57,Federated States of Micronesia,702
+58,Fiji,18274
+59,Finland,338145
+60,France,643801
+61,Gabon,267667
+62,Georgia,69700
+63,Germany,357022
+64,Ghana,238533
+65,Greece,131957
+66,Grenada,349
+67,Guatemala,108889
+68,Guinea,245857
+69,Guinea-Bissau,36125
+70,Guyana,214969
+71,Haiti,27750
+72,Honduras,112090
+73,Hungary,93028
+74,Iceland,103000
+75,India,3287263
+76,Indonesia,1904569
+77,Iran,1648195
+78,Iraq,438317
+79,Israel,20770
+80,Italy,301340
+81,Ivory Coast,322463
+82,Jamaica,10991
+83,Japan,377944
+84,Jordan,89342
+85,Kazakhstan,2724900
+86,Kenya,580367
+87,Kiribati,811
+88,Kuwait,17818
+89,Kyrgyzstan,199951
+90,Laos,236800
+91,Latvia,64589
+92,Lebanon,10400
+93,Lesotho,30355
+94,Liberia,111369
+95,Libya,1759540
+96,Liechtenstein,160
+97,Lithuania,65300
+98,Luxembourg,2586
+99,Madagascar,587041
+100,Malawi,118484
+101,Malaysia,329847
+102,Maldives,298
+103,Mali,1240192
+104,Malta,316
+105,Marshall Islands,181
+106,Mauritania,1030700
+107,Mauritius,2040
+108,Mexico,1964375
+109,Moldova,33851
+110,Monaco,2
+111,Mongolia,1564116
+112,Montenegro,13812
+113,Morocco,446550
+114,Mozambique,799380
+115,Myanmar,676578
+116,Namibia,824292
+117,Nauru,21
+118,Nepal,147181
+119,Netherlands,41543
+120,New Zealand,268838
+121,Nicaragua,130370
+122,Niger,1267000
+123,Nigeria,923768
+124,North Korea,120538
+125,North Macedonia,25713
+126,Norway,323802
+127,Oman,309500
+128,Pakistan,796095
+129,Palau,459
+130,Palestinian National Authority,
+131,Panama,75420
+132,Papua New Guinea,462840
+133,Paraguay,406752
+134,Peru,1285216
+135,Philippines,300000
+136,Poland,312685
+137,Portugal,92212
+138,Qatar,11586
+139,Republic of Ireland,70273
+140,Republic of the Congo,342000
+141,Romania,238391
+142,Russia,17098240
+143,Rwanda,26338
+144,Saint Kitts and Nevis,261
+145,Saint Lucia,616
+146,Saint Vincent and the Grenadines,389
+147,Samoa,2831
+148,San Marino,61
+149,Saudi Arabia,2149690
+150,Senegal,196722
+151,Serbia,77474
+152,Seychelles,455
+153,Sierra Leone,71740
+154,Singapore,716
+155,Slovakia,49035
+156,Slovenia,20273
+157,Solomon Islands,28896
+158,Somalia,637657
+159,South Africa,1219090
+160,South Korea,99720
+161,South Sudan,644329
+162,Spain,505370
+163,Sri Lanka,65610
+164,Sudan,1861484
+165,Suriname,163820
+166,Sweden,450295
+167,Switzerland,41277
+168,Syria,185180
+169,S�����������,964
+170,Tajikistan,144100
+171,Tanzania,947300
+172,Thailand,513120
+173,The Bahamas,13880
+174,The Gambia,11300
+175,Togo,56785
+176,Tonga,747
+177,Trinidad and Tobago,5128
+178,Tunisia,163610
+179,Turkey,783562
+180,Turkmenistan,488100
+181,Tuvalu,26
+182,Uganda,241038
+183,Ukraine,603550
+184,United Arab Emirates,83600
+185,United Kingdom,243610
+186,United States,9833517
+187,Uruguay,176215
+188,Uzbekistan,447400
+189,Vanuatu,12189
+190,Vatican City,0
+191,Venezuela,912050
+192,Vietnam,331210
+193,Yemen,527968
+194,Zambia,752618
+195,Zimbabwe,390757
