@@ -1,41 +1,41 @@
 CREATE TABLE `HappinesReportScore` (
-  `id` integer,
-  `countryId` integer,
-  `year` integer,
+  `id` int,
+  `countryId` int,
+  `year` int,
   `score` float
 );
 
 CREATE TABLE `Country` (
-  `id` integer,
-  `name` string,
-  `landArea` integer
+  `id` int,
+  `name` varchar(100),
+  `landArea` int
 );
 
 CREATE TABLE `CountryData` (
-  `id` integer,
-  `year` integer,
-  `countryId` integer,
-  `healthcareDataId` integer,
-  `environmentalDataId` integer,
-  `financialDataId` integer,
-  `educationalDataId` integer,
-  `populationDataId` integer
+  `id` int,
+  `year` int,
+  `countryId` int,
+  `healthcareDataId` int,
+  `environmentalDataId` int,
+  `financialDataId` int,
+  `educationalDataId` int,
+  `populationDataId` int
 );
 
 CREATE TABLE `PopulationData` (
-  `id` integer,
-  `density` integer,
-  `population` integer,
+  `id` int,
+  `density` int,
+  `population` int,
   `laborForceParticipant` float,
-  `urbanPopulation` integer
+  `urbanPopulation` int
 );
 
 CREATE TABLE `FinancialData` (
-  `id` integer,
-  `armedForcesSize` integer,
+  `id` int,
+  `armedForcesSize` int,
   `CPI` float,
   `gasolinePrice` float,
-  `GDP` integer,
+  `GDP` int,
   `minimumWage` float,
   `outOfPocketHealthExpenditure` float,
   `taxRevenue` float,
@@ -44,23 +44,23 @@ CREATE TABLE `FinancialData` (
 );
 
 CREATE TABLE `EducationalData` (
-  `id` integer,
+  `id` int,
   `GrossPrimaryEducationEnrollment` float,
   `GrossTertiaryEducationEnrollment` float
 );
 
 CREATE TABLE `EnvironmentalData` (
-  `id` integer,
+  `id` int,
   `Co2Emmission` float,
   `forestedArea` float
 );
 
 CREATE TABLE `HealthcareData` (
-  `id` integer,
+  `id` int,
   `birthRate` float,
   `fertilityRate` float,
   `infantMortaloty` float,
-  `lifeExpectancy` integer,
+  `lifeExpectancy` int,
   `maternalMortality` float,
   `physicianPerThousand` float
 );
